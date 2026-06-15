@@ -19,5 +19,4 @@ public class SecondLargestNumber {
 		}
 		System.out.println(secondlargestnumber);
 	} 
-
 }
